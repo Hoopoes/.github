@@ -1,6 +1,6 @@
 # Hoopoes 🐦
 
-Hoopoes is an emerging open-source community dedicated to fostering collaboration and innovation in the field of software development. Our community, starting from Pakistan, aims to bring together passionate developers to work on impactful projects that address real-world challenges and push the boundaries of technology.
+Hoopoes is an open‑source community that brings together passionate developers to collaborate on impactful software projects, advancing technology and solving real‑world problems.
 
 ## Key Projects
 
