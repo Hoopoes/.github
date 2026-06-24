@@ -16,4 +16,4 @@ Hoopoes is an open‑source community that brings together passionate developers
 
 ## About the Author
 
-Hoopoes is an open-source project maintained by Muhammad Umar Anzar.
+Hoopoes is an open-source project founded by Muhammad Umar Anzar.
